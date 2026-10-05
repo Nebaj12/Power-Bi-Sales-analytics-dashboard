@@ -151,4 +151,13 @@ Future improvements may include:
 •	Additional drill-through functionality
 
 
+## Key Insights
+
+- Sales performance shows clear month-to-month fluctuations across the analysed period.
+- A small number of products contribute a large share of overall sales and profit.
+- Product categories differ noticeably in profitability, showing that high revenue does not always mean high profit margin.
+- Sales performance varies across countries and regions.
+- Interactive filters allow the user to compare performance by year, region and category.
+
+
 
