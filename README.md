@@ -120,16 +120,16 @@ The dashboard was designed to answer questions such as:
 •	How does performance differ across regions?
 •	Which products have high sales but comparatively low profitability?
 
-##Screenshots
+## Screenshots
 
-Executive Overview
-add screenshot here
+### Executive Overview
+![Executive Overview](executive-overview.png)
 
-Product Analysis
-add screenshot here 
+### Product Analysis
+![Product Analysis](product-analysis.png)
 
-Data Model
-Add screebnshot here
+### Data Model
+![Data Model](data-model.png)
 
 ## Key Skills Demonstrated
 •	Data cleaning with Power Query
