@@ -153,11 +153,15 @@ Future improvements may include:
 
 ## Key Insights
 
-- Sales performance shows clear month-to-month fluctuations across the analysed period.
-- A small number of products contribute a large share of overall sales and profit.
-- Product categories differ noticeably in profitability, showing that high revenue does not always mean high profit margin.
-- Sales performance varies across countries and regions.
-- Interactive filters allow the user to compare performance by year, region and category.
+- The dashboard shows total sales of approximately **€868.32K**, generating **€268.28K in profit** with an overall **profit margin of 30.90%**.
+- **Technology** is the strongest-performing product category by sales, followed by **Furniture**, while **Office Supplies** contributes a much smaller share of total revenue.
+- **Germany** is clearly the strongest market by sales and contributes significantly more revenue than the other analysed countries.
+- **Laptop Pro 14** is the strongest individual product, ranking first in both **total sales and total profit**.
+- **Laptop Air 13** and **Standing Desk 160** are also among the strongest products in terms of both revenue and profitability.
+- At subcategory level, **Storage** has the highest profit margin, at roughly **37%**, followed by Accessories and Chairs.
+- The monthly sales trend shows noticeable fluctuations, with several strong sales peaks and the highest visible peak occurring during **2026**.
+- The comparison between sales and profit demonstrates that the highest-revenue products are generally also among the strongest profit contributors, although profitability differs across product groups.
+
 
 
 
